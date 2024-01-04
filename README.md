@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mtaffe01
+- 👀 I’m interested in Data Science, AI, ML, and most other modeling techniques
+- 🌱 I’m currently a masters student at American University
